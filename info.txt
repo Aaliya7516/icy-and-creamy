@@ -1,0 +1,7 @@
+used HTML, CSS, Django and Bootstrap. Primary motive - to learn Django and Deployment of website
+
+
+icy-and-creamy
+
+
+Aaliya7516/icy-and-creamy
